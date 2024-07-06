@@ -1,7 +1,4 @@
-<!--
-**kennyesidganadero/kennyesidganadero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+* [Font]([https://fontawesome.com](https://fonts.googleapis.com/css2?family=Margarine&display=swap))
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,6 +10,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br />
+<body style="font-family: Calibri, Cochin, Georgia, Times;">
+    <p style="text-align: center; font-size: 34px;">
+        Hello, I'm <span style="background: #0c0e0c; border-radius: 10px; padding: 6px 6px 6px 6px;"> <span
+                style="color: aliceblue;">Dev</span><span
+                style="color: #F62A00; font-weight: bold; font-size: 45px;">Y</span><span
+                style="color: #eaebeaa9;">esi</span> </span>
+        &nbsp;and I am a developer passionate about programming.
+    </p>
+
+</body>
+
 <div align="center">
   <a>
     <img src="img/imgHeader.jpg" alt="Logo" width="1024" height="420">
