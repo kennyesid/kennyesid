@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <br />
 <div align="center">
   <a>
-    <img src="img/imgHeader.jpg" alt="Logo" width="120" height="60">
+    <img src="img/imgHeader.jpg" alt="Logo" width="1024" height="477">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
