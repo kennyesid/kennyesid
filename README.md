@@ -10,6 +10,8 @@
 - ⚡ Fun fact: ...
 -->
 <br />
+<img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white&labelColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyesid-alejandro-sacaca-carrasco-656831155%2F">
+
 <body style="font-family: Calibri, Cochin, Georgia, Times;">
     <p style="text-align: center; font-size: 34px;">
         Hello, I'm <span style="background: #0c0e0c; border-radius: 10px; padding: 6px 6px 6px 6px;"> <span
