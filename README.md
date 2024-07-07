@@ -1,4 +1,3 @@
-* [Font]([https://fontawesome.com](https://fonts.googleapis.com/css2?family=Margarine&display=swap))
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,7 +9,6 @@
 - ⚡ Fun fact: ...
 -->
 <br />
-<img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white&labelColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyesid-alejandro-sacaca-carrasco-656831155%2F">
 
 <body style="font-family: Calibri, Cochin, Georgia, Times;">
     <p style="text-align: center; font-size: 34px;">
@@ -21,13 +19,35 @@
         &nbsp;and I am a developer passionate about programming.
     </p>
 
-</body>
-
 <div align="center">
   <a>
     <img src="img/imgHeader.jpg" alt="Logo" width="1024" height="420">
   </a>
-
-  <h3 align="center">Best-README-Template</h3>
-
 </div>
+
+# Contact with me
+
+<a target="_blank" href="https://www.linkedin.com/in/yesid-alejandro-sacaca-carrasco-656831155/"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white&labelColor=blue"></a>
+<a target="_blank" href="https://wa.me/qr/AWRIQJUT6PYBN1/"><img alt="Static Badge" src="https://img.shields.io/badge/Whatsapp-35BF5C?logo=whatsapp&logoColor=white&labelColor=35BF5C"></a>
+
+Descripción breve de tu proyecto y lo que hace.
+
+## Tabla de Contenidos
+
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Contribución](#contribución)
+- [Licencia](#licencia)
+
+## Instalación
+
+Instrucciones sobre cómo instalar tu proyecto. Por ejemplo:
+
+```bash
+git clone https://github.com/tu-usuario/tu-proyecto.git
+cd tu-proyecto
+npm install
+
+</body>
+
+
