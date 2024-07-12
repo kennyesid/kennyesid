@@ -4,11 +4,11 @@
 
 ## **About me**
 - I'am passionate about programming.
-- I like to create work tools to optimize my developments.
 - I have the ability to lead work teams, always teaching good practices because to end, if we don't do something right, we will always be patching up mistakes.
 - I am very optimistic and I like to look forward.
 - I adapt very quickly to new problems and learn rapidly.
 - I always learning new things.
+- I like to create work tools to optimize my developments.
 
 ```bash
 Example:
@@ -19,10 +19,13 @@ Example:
     Initially, the review was done manually, and values were obtained collectively. Then, I implemented a web application made in React that exports the n scripts to execute in the database.
 ```
 ## **Jobs**
-<img alt="Static Badge" src="https://img.shields.io/badge/2021%2F10%20Hoy-%239db34a?style=flat-square&logoColor=%230e1b36&label=Banco%20Ganadero&labelColor=%233e5f3d" />
-<img alt="Static Badge" src="https://img.shields.io/badge/2019%2F03%202021%2F10-%239db34a?style=flat-square&logoColor=%230e1b36&label=Banco%20Mercantil%20Santa%20Cruz&labelColor=%233e5f3d" />
-<img alt="Static Badge" src="https://img.shields.io/badge/2018%2F04%202018%2F10-%239db34a?style=flat-square&logoColor=%230e1b36&label=Banco%20Nacional%20de%20Bolivia&labelColor=%233e5f3d" />
-<img alt="Static Badge" src="https://img.shields.io/badge/2015%2F03%202018%2F04-%23e4e2f6?style=flat-square&logoColor=%230e1b36&label=Banco%20Central%20de%20Bolivia&labelColor=%23005ec4" />
+<div style="display:flex; background: blue;">
+    <div><img alt="Static Badge" src="https://img.shields.io/badge/2021%2F10%20Hoy-%239db34a?style=flat-square&logoColor=%230e1b36&label=Banco%20Ganadero&labelColor=%233e5f3d" /></div>
+    <div><img alt="Static Badge" src="https://img.shields.io/badge/2019%2F03%202021%2F10-%239db34a?style=flat-square&logoColor=%230e1b36&label=Banco%20Mercantil%20Santa%20Cruz&labelColor=%233e5f3d" /></div>
+    <div><img alt="Static Badge" src="https://img.shields.io/badge/2018%2F04%202018%2F10-%239db34a?style=flat-square&logoColor=%230e1b36&label=Banco%20Nacional%20de%20Bolivia&labelColor=%233e5f3d" /></div>
+    <div><img alt="Static Badge" src="https://img.shields.io/badge/2015%2F03%202018%2F04-%23e4e2f6?style=flat-square&logoColor=%230e1b36&label=Banco%20Central%20de%20Bolivia&labelColor=%23005ec4" />    </div>
+</div>
+
 
 ## **Skills**
 
