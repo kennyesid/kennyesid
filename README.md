@@ -2,143 +2,42 @@
 
 [![Header](https://github.com/kennyesid/kennyesid/blob/main/img/imgHeader.jpg?raw=true "Header")](https://www.creative-tim.com/)
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## **About me**
 - I'am passionate about programming.
 - I like to create work tools to optimize my developments.
-<br />
-Example:
-<br />
-Trouble:
-<br />
-Every week, 100,000 records in the database that failed for various reasons need to be regularized.
-<br />
-Solution:
-<br />
-Initially, the review was done manually, and values were obtained collectively. Then, I implemented a web application made in React that exports the n scripts to execute in the database.
-<br />
-- I'am passionate about programming.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<br />
-/*add and display colors to readme.md files:*/
-/* Squar Colors: */
-- ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15`
-- ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `#c5f015`
-- ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) `#1589F0`
-/* Rounded(Circel) Colors: */
-- ![#f03c15](https://www.iconsdb.com/icons/download/color/f03c15/circle-16.png) `#f03c15`
-- ![#c5f015](https://www.iconsdb.com/icons/download/color/c5f015/circle-16.png) `#c5f015`
-- ![#1589F0](https://www.iconsdb.com/icons/download/color/1589F0/circle-16.png) `#1589F0`
-/* in the last one you can go to the website and change the shape to what ever you want 
-and copie the link the the img and add it to your README.md*/
-
-
-
-![alt text](https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png?raw=true)
-
-[![name](https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png?raw=true)](https://thecodebuzz.com/how-to-add-image-to-excel-files-using-npoi/)
-
-
-```json
-
-    {
-     "step1":{
-             "fields":[
-                 {
-                     "key":"name",
-                     "type":"edit_text",
-                     "hint":"Enter Your Name"
-                 },
-                 {
-                     "key":"email",
-                     "type":"edit_text",
-                     "hint":"Enter email address"
-                 },
-                 {
-                     "key":"labelBackgroundImage",
-                     "type":"label",
-                     "text":"Choose Background Image"
-                 },
-                 {
-                     "key":"chooseImage",
-                     "type":"choose_image",
-                     "uploadButtonText":"Choose"
-                 },
-                 {
-                     "key":"getAddressFromLatlng",
-                     "type":"gps",
-                     "options":[
-                        {
-                          "val":"2.334,3.444"
-                        }
-                     ]
-                 },
-                 {
-                     "key":"showDropDown",
-                     "type":"spinner",
-                     "options":[
-                        {
-                         "default":true,
-                         "displayText":"Delhi"
-                        },
-                         {
-                         "default":false,
-                         "displayText":"Mumbai"
-                        }
-                     ]
-                 }
-             ],
-             "title":"Step 1",
-             "next":"step2"
-         }
-    }
-  ```
-
-<body style="font-family: Calibri, Cochin, Georgia, Times;">
-    <p style="text-align: center; font-size: 34px;">
-        Hello, I'm <span style="background: #0c0e0c; border-radius: 10px; padding: 6px 6px 6px 6px;"> <span
-                style="color: aliceblue;">Dev</span><span
-                style="color: #F62A00; font-weight: bold; font-size: 45px;">Y</span><span
-                style="color: #eaebeaa9;">esi</span> </span>
-        &nbsp;and I am a developer passionate about programming.
-    </p>
-
-<div align="center">
-  <a>
-    <img src="img/imgHeader.jpg" alt="Logo" width="1024" height="420">
-  </a>
-</div>
-
-# Contact with me
-
-<a target="_blank" href="https://www.linkedin.com/in/yesid-alejandro-sacaca-carrasco-656831155/"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white&labelColor=blue"></a>
-<a target="_blank" href="https://wa.me/qr/AWRIQJUT6PYBN1/"><img alt="Static Badge" src="https://img.shields.io/badge/Whatsapp-35BF5C?logo=whatsapp&logoColor=white&labelColor=35BF5C"></a>
-
-Descripción breve de tu proyecto y lo que hace.
-
-## Tabla de Contenidos
-
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
-
-## Instalación
-
-Instrucciones sobre cómo instalar tu proyecto. Por ejemplo:
+- I have the ability to lead work teams, always teaching good practices because to end, if we don't do something right, we will always be patching up mistakes.
+- I am very optimistic and I like to look forward.
+- I adapt very quickly to new problems and learn rapidly.
+- I always learning new things.
 
 ```bash
-git clone https://github.com/tu-usuario/tu-proyecto.git
-cd tu-proyecto
-npm install
+Example:
+    Trouble:
+    Every week, 100,000 records in the database that failed for various reasons need to be regularized.
 
-</body>
+    Solution:
+    Initially, the review was done manually, and values were obtained collectively. Then, I implemented a web application made in React that exports the n scripts to execute in the database.
+```
+## **Jobs**
+<img alt="Static Badge" src="https://img.shields.io/badge/2021%2F10%20Hoy-%239db34a?style=flat-square&logoColor=%230e1b36&label=Banco%20Ganadero&labelColor=%233e5f3d" />
+<img alt="Static Badge" src="https://img.shields.io/badge/2019%2F03%202021%2F10-%239db34a?style=flat-square&logoColor=%230e1b36&label=Banco%20Mercantil%20Santa%20Cruz&labelColor=%233e5f3d" />
+<img alt="Static Badge" src="https://img.shields.io/badge/2018%2F04%202018%2F10-%239db34a?style=flat-square&logoColor=%230e1b36&label=Banco%20Nacional%20de%20Bolivia&labelColor=%233e5f3d" />
+<img alt="Static Badge" src="https://img.shields.io/badge/2015%2F03%202018%2F04-%23e4e2f6?style=flat-square&logoColor=%230e1b36&label=Banco%20Central%20de%20Bolivia&labelColor=%23005ec4" />
+
+## **Skills**
+
+### Backend Development
+<img alt="Static Badge" src="https://img.shields.io/badge/%20%20%20C%23-blue?style=flat-square&logo=C&label=%E2%96%BA" /> <img alt="Static Badge" src="https://img.shields.io/badge/Node%20JS-blue?style=flat-square&logo=Node.js&logoColor=white&label=%E2%96%BA" /> <img alt="Static Badge" src="https://img.shields.io/badge/Nest%20JS-blue?style=flat-square&logo=Nestjs&logoColor=white&label=%E2%96%BA" /> <img alt="Static Badge" src="https://img.shields.io/badge/.Net%20Core-blue?style=flat-square&logo=.net&label=%E2%96%BA" /> <img alt="Static Badge" src="https://img.shields.io/badge/Spring%20Boot-blue?style=flat-square&logo=Spring%20Boot&label=%E2%96%BA" />
+### Frontend Development
+<img alt="Static Badge" src="https://img.shields.io/badge/React%20JS-%239ea7ab?style=flat-square&logo=react&logoColor=white&label=%E2%96%BA&labelColor=%231b3946" /> <img alt="Static Badge" src="https://img.shields.io/badge/mvc-%239ea7ab?style=flat-square&logo=.net&logoColor=white&label=%E2%96%BA&labelColor=%231b3946" /> <img alt="Static Badge" src="https://img.shields.io/badge/aspx-%239ea7ab?style=flat-square&logo=.net&logoColor=white&label=%E2%96%BA&labelColor=%231b3946" /> <img alt="Static Badge" src="https://img.shields.io/badge/Winform-%239ea7ab?style=flat-square&logo=.net&logoColor=white&label=%E2%96%BA&labelColor=%231b3946" /> <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-%239ea7ab?style=flat-square&logo=Javascript&logoColor=white&label=%E2%96%BA&labelColor=%231b3946" /> <img alt="Static Badge" src="https://img.shields.io/badge/Typescript-%239ea7ab?style=flat-square&logo=typescript&logoColor=white&label=%E2%96%BA&labelColor=%231b3946" /> <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-%239ea7ab?style=flat-square&logo=bootstrap&logoColor=white&label=%E2%96%BA&labelColor=%231b3946" /> <img alt="Static Badge" src="https://img.shields.io/badge/Html-%239ea7ab?style=flat-square&logo=html5&logoColor=white&label=%E2%96%BA&labelColor=%231b3946" /> <img alt="Static Badge" src="https://img.shields.io/badge/css-%239ea7ab?style=flat-square&logo=css&logoColor=white&label=%E2%96%BA&labelColor=%231b3946" />
+### DataBase
+<img alt="Static Badge" src="https://img.shields.io/badge/Oracle-%23d0e664?style=flat-square&logo=oracle&logoColor=white&label=%E2%96%BA&labelColor=%2377767c" /> <img alt="Static Badge" src="https://img.shields.io/badge/SQL%20Server-%23d0e664?style=flat-square&logo=Microsoft&logoColor=white&label=%E2%96%BA&labelColor=%2377767c" /> <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-%23d0e664?style=flat-square&logo=MongoDB&logoColor=white&label=%E2%96%BA&labelColor=%2377767c" /> <img alt="Static Badge" src="https://img.shields.io/badge/PostgresSql-%23d0e664?style=flat-square&logo=PostgreSql&logoColor=white&label=%E2%96%BA&labelColor=%2377767c" />
+### IDEs
+<img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio-%2383d4ff?style=flat-square&logo=VisualStudioCode&logoColor=%230e1b36&label=%E2%96%BA&labelColor=%230e1b36" /> <img alt="Static Badge" src="https://img.shields.io/badge/IntellijIDEA-%2383d4ff?style=flat-square&logo=VisualStudioCode&logoColor=%230e1b36&label=%E2%96%BA&labelColor=%230e1b36" /> <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2383d4ff?style=flat-square&logo=VisualStudioCode&logoColor=%230e1b36&label=%E2%96%BA&labelColor=%230e1b36" />
+
+## **Contact with me**
+
+<a target="_blank" href="https://www.linkedin.com/in/yesid-alejandro-sacaca-carrasco-656831155/"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin"></a>
+<a target="_blank" href="https://wa.me/qr/AWRIQJUT6PYBN1/"><img alt="Static Badge" src="https://img.shields.io/badge/Whatsapp-%2300994e?style=flat-square&logo=Whatsapp&logoColor=white"></a>
 
 
